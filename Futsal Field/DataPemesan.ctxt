@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DataPemesan
+comment1.params=
+comment1.target=void\ MenuTable()
+comment2.params=
+comment2.target=void\ GUI()
+comment3.params=
+comment3.target=void\ isiData()
+comment4.params=
+comment4.target=void\ aksi()
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=6

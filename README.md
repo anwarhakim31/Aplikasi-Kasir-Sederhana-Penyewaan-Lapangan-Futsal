@@ -1,4 +1,4 @@
-# Aplikasi Sederhana-Kasir (Penyewaan lapangan Futsal)
+# Aplikasi Sederhana Kasir (Penyewaan lapangan Futsal)
 
 membuat aplikasi kasir sederahana untuk lapangan futsal dengan menggunakan "java Blue J IDE" dan "Database Sqlite".
 
